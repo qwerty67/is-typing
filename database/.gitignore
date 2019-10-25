@@ -1,0 +1,5 @@
+*.sqlite
+*.sqlite-journal
+2019_09_07_183157_create_roles_table.php
+2019_09_07_183228_create_permissions_table.php
+2019_09_07_184730_create_foreign_permission_role_table.php
